@@ -46,7 +46,7 @@ jobs:
        - name: Download SGSI-build-tool
          uses: robinraju/release-downloader@v1
          with: 
-           repository: "aab163/SGSI-build-tool"
+           repository: "xiaoxindada/SGSI-build-tool"
            tag: "v11-1.7"
            fileName: "SGSI-build-tool-11.tar"
            
