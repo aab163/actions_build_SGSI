@@ -2,7 +2,7 @@ name: build_SGSI-11
 
 on: 
   watch: 
-    types: [started]
+    types: [started] 
   
 jobs:
   build:
